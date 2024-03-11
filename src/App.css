@@ -138,11 +138,11 @@ h6 {
 .todo-item button {
   border: none;
   font-size: 13px;
-  color: rgb(160, 62, 62);
+  color: rgb(215, 164, 69);
 }
 
 .todo-item button:hover {
-  color: red;
+  color: #f1fada;
 }
 
 .checker input {
